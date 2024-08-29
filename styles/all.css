@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html, body {
+    height: 100%;
+}
+
+.main {
+    width: 100%;
+    min-height: 100%;
+    background-color: #1c1c1c;
+}
+
+.center {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+/**/
+
+.header {
+    max-width: 1280px;
+    margin-inline: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.logotipo {
+    width: 120px;
+    height: auto;
+}
+
+.header-menu {
+    display: flex;
+    gap: 1.4rem;
+    background-color: rgba(255, 255, 255, 0.03);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.header-a {
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.header-a:hover {
+    background: linear-gradient(45deg, DeepSkyBlue, cyan, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/**/
+
+.section {
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-top: 10%;
+    padding-block: 8%;
+    display: flex;
+}
+
+.section-principal {
+    text-align: left;
+}
+
+.section-title {
+    font-size: 3em;
+    color: #fff;
+    padding-block: 15px;
+    font-weight: 550;
+}
+
+.title-color {
+    background: linear-gradient(45deg, DeepSkyBlue, cyan, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.section-description {
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 400;
+    font-size: 0.9em;
+}
+
+.patrocinios {
+    display: flex;
+    padding-top: 3rem;
+    justify-content: left;
+    gap: 2rem;
+}
+
+.outros-patrocinios {
+    display: flex;
+    padding-top: 2rem;
+    justify-content: left;
+    gap: 2rem;
+}
+
+.section-patrocinio {
+    width: 95px;
+    height: auto;
+}
+
+.img-section {
+    width: 500px;
+    height: auto;
+}
+
+/**/
+
+.wrapper {
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-top: 8%;
+    padding-block: 5%;
+}
+
+.wrapper-infos {
+    display: flex;
+    gap: 8rem;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.infos {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.wrapper-title {
+    font-size: 2em;
+}
+
+.wrapper-description {
+    font-weight: 500;
+    background: linear-gradient(45deg, DeepSkyBlue, cyan, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/**/
+
+.features {
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-top: 5%;
+    padding-block: 10%;
+    display: flex;
+}
+
+.features-image {
+    padding-right: 50px;
+}
+
+.img-features {
+    width: 450px;
+    height: auto;
+    align-items: center;
+}
+
+.features-principal {
+    text-align: left;
+    color: #fff;
+}
+
+.features-title {
+    font-size: 2.3em;
+    padding-block: 15px;
+    font-weight: 550;
+}
+
+.features-description {
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 400;
+    font-size: 0.9em;
+}
+
+.features-btns {
+    padding-top: 20px;
+}
+
+.features-btn {
+    padding: 10px 20px;
+    background: linear-gradient(45deg, DeepSkyBlue, cyan, white);
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.features-btn:hover {
+    padding: 10px 20px;
+    background: linear-gradient(45deg, DeepSkyBlue, cyan, white);
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+/**/
+
+.new {
+    max-width: 1280px;
+    margin-inline: auto;
+    padding-top: 5%;
+    padding-block: 5%;
+    display: flex;
+}
+
+.new-principal {
+    text-align: left;
+    color: #fff;
+}
+
+.new-title {
+    font-size: 2.3em;
+    padding-block: 15px;
+    font-weight: 550;
+}
+
+.new-description {
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 400;
+    font-size: 0.9em;
+}
+
+.new-plataformas {
+    padding-top: 20px;
+    display: flex;
+    gap: 1rem;
+}
+
+.new-image {
+    padding-left: 50px;
+}
+
+.img-new {
+    width: 450px;
+    height: auto;
+    align-items: center;
+}
