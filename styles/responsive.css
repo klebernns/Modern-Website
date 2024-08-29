@@ -46,17 +46,18 @@
     
     .wrapper {
         text-align: center;
-        font-size: 0.9em;
+        font-size: 0.8em;
         padding-top: 0;
         padding-block: 20%;
     }
     
+    .wrapper-description {
+        font-size: 0.7em;
+    }
+    
     .wrapper-infos {
         display: flex;
-        gap: 2.5rem;
-        background-color: rgba(255, 255, 255, 0.02);
-        border-radius: 20px;
-        padding: 20px 20px;
+        gap: 2.2rem;
     }
     
     .infos {
