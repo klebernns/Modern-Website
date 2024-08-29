@@ -1,0 +1,120 @@
+@media (max-width: 600px) {
+    .main {
+        overflow: hidden;
+    }
+    
+    .header-menu {
+        display: none;
+    }
+    
+    .section {
+        display: block;
+        padding-block: 23%;
+    }
+    
+    .section-principal {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .section-description {
+        font-size: 0.8em;
+    }
+    
+    .section-principal br {
+        display: none;
+    }
+    
+    .patrocinios {
+        justify-content: center;
+    }
+    
+    .outros-patrocinios {
+        justify-content: center;
+    }
+    
+    .section-image {
+        padding-top: 50px;
+    }
+    
+    /*         */
+    
+    .wrapper {
+        text-align: center;
+        font-size: 1em;
+        padding-top: 0;
+        padding-block: 20%;
+    }
+    
+    .wrapper-infos {
+        display: flex;
+        gap: 4rem;
+        background-color: rgba(255, 255, 255, 0.02);
+        border-radius: 20px;
+        padding: 20px 20px;
+    }
+    
+    .infos {
+        display: block;
+    }
+    
+    /*         */
+    
+    .features {
+        align-items: center;
+        text-align: center;
+        display: block;
+        padding-top: 0;
+        padding-block: 20%;
+    }
+    
+    .features-image {
+        padding-right: 0;
+    }
+    
+    .img-features {
+        width: 350px;
+    }
+    
+    .features-principal {
+        padding-top: 25px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .features-title br {
+        display: inline-block;
+    }
+    
+    /*          */
+    
+    .new {
+        align-items: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column-reverse;
+        padding-top: 0;
+        padding-block: 20%;
+    }
+    
+    .new-principal {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .new-plataformas {
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .new-image {
+        padding-top: 25px;
+    }
+    
+    .img-new {
+        width: 350px;
+    }
+}

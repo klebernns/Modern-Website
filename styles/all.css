@@ -40,7 +40,7 @@ html, body {
 .header-menu {
     display: flex;
     gap: 1.4rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(255, 255, 255, 0.02);
     padding: 10px 20px;
     border-radius: 20px;
 }
@@ -94,24 +94,22 @@ html, body {
     display: flex;
     padding-top: 3rem;
     justify-content: left;
-    gap: 2rem;
-}
-
-.outros-patrocinios {
-    display: flex;
-    padding-top: 2rem;
-    justify-content: left;
+    align-items: center;
     gap: 2rem;
 }
 
 .section-patrocinio {
-    width: 95px;
+    width: 100px;
     height: auto;
 }
 
 .img-section {
     width: 500px;
     height: auto;
+}
+
+#coinbase {
+    width: 80px;
 }
 
 /**/
@@ -125,11 +123,14 @@ html, body {
 
 .wrapper-infos {
     display: flex;
-    gap: 8rem;
+    gap: 7rem;
     color: #fff;
     text-align: center;
     align-items: center;
     justify-content: center;
+    background-color: rgba(255, 255, 255, 0.02);
+    border-radius: 20px;
+    padding: 20px 20px;
 }
 
 .infos {
@@ -178,6 +179,10 @@ html, body {
     font-size: 2.3em;
     padding-block: 15px;
     font-weight: 550;
+}
+
+.features-title br {
+    display: none;
 }
 
 .features-description {
