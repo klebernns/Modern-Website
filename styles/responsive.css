@@ -1,20 +1,20 @@
-@media (min-width: 300px) and (max-width: 600px) {
+@media (min-width: 320px) and (max-width: 460px) {
 
     .img-section {
-        width: 300px;
+        width: 270px;
     }
     
     .img-features {
-        width: 300px;
+        width: 270px;
     }
     
     .img-new {
-        width: 300px;
+        width: 270px;
     }
 
 }
 
-@media (max-width: 600px) {
+@media (min-width: 460px) and (max-width: 1024px) {
     .main {
         overflow: hidden;
     }
