@@ -1,3 +1,19 @@
+@media (max-width: 420px) {
+
+    .img-section {
+        width: 300px;
+    }
+    
+    .img-features {
+        width: 300px;
+    }
+    
+    .img-new {
+        width: 300px;
+    }
+
+}
+
 @media (max-width: 600px) {
     .main {
         overflow: hidden;
