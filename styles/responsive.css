@@ -32,6 +32,7 @@
 }
 
 @media (max-width: 768px) {
+    
     .main {
         overflow: hidden;
     }
@@ -177,5 +178,12 @@
     
     .img-new {
         width: 350px;
+    }
+}
+
+@media (max-width: 1024px) {
+    
+    .img-section {
+        width: 310px;
     }
 }
