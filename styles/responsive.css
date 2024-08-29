@@ -1,5 +1,9 @@
 @media (max-width: 640px) {
     
+    .sectiob-image {
+        display: flex;
+    }
+    
     .img-section {
         width: 250px;
         align-items: center;
