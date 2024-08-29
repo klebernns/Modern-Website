@@ -1,13 +1,13 @@
 @media (max-width: 640px) {
     
-    .sectiob-image {
+    .section-image {
         display: flex;
+        align-items: center;
+        justify-content: center;
     }
     
     .img-section {
         width: 250px;
-        align-items: center;
-        justify-content: center;
     }
     
     .img-features {
@@ -48,6 +48,12 @@
         display: block;
         padding-block: 23%;
         padding-top: 8%;
+    }
+    
+    .section-image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     
     .section-principal {
