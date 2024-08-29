@@ -50,12 +50,6 @@
         padding-top: 8%;
     }
     
-    .section-image {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    
     .section-principal {
         align-items: center;
         justify-content: center;
@@ -84,6 +78,9 @@
     
     .section-image {
         padding-top: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     
     .img-section {
