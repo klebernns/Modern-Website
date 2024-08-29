@@ -1,4 +1,4 @@
-@media (min-width: 320px) and (max-width: 460px) {
+@media (max-width: 420px) {
 
     .img-section {
         width: 270px;
@@ -14,7 +14,7 @@
 
 }
 
-@media (min-width: 460px) and (max-width: 1024px) {
+@media (min-width: 420px) and (max-width: 1024px) {
     .main {
         overflow: hidden;
     }
