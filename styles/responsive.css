@@ -17,6 +17,28 @@
     
     /**/
     
+    .wrapper {
+        text-align: center;
+        font-size: 0.8em;
+        padding-top: 0;
+        padding-block: 20%;
+    }
+    
+    .wrapper-description {
+        font-size: 0.7em;
+    }
+    
+    .wrapper-infos {
+        display: flex;
+        gap: 2rem;
+    }
+    
+    .infos {
+        display: block;
+    }
+    
+    /**/
+    
     .img-features {
         width: 260px;
     }
