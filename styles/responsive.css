@@ -6,9 +6,16 @@
         justify-content: center;
     }
     
+    .section-patrocinio {
+        width: 85px;
+        height: auto;
+    }
+    
     .patrocinios {
         margin-left: 5%;
         margin-right: 5%;
+        align-items: center;
+        justify-content: center;
     }
     
     .img-section {
@@ -30,7 +37,7 @@
     
     .wrapper-infos {
         display: flex;
-        gap: 2rem;
+        gap: 2.5rem;
     }
     
     .infos {
@@ -102,10 +109,6 @@
         justify-content: center;
     }
     
-    .outros-patrocinios {
-        justify-content: center;
-    }
-    
     .section-image {
         padding-top: 50px;
         display: flex;
@@ -132,7 +135,7 @@
     
     .wrapper-infos {
         display: flex;
-        gap: 2.2rem;
+        gap: 2.5rem;
     }
     
     .infos {
