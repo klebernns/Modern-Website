@@ -49,7 +49,7 @@ html, body {
 }
 
 .header-a:hover {
-    background: linear-gradient(80deg, DeepSkyBlue, skyblue, cyan);
+    background: linear-gradient(80deg, cyan, deepskyblue, cyan);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: background-move 3s linear infinite;
@@ -82,10 +82,10 @@ html, body {
 }
 
 .title-color {
-    background: linear-gradient(80deg, DeepSkyBlue, skyblue, cyan);
+    background: linear-gradient(80deg, cyan, lightcyan, cyan);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: background-move 3.5s linear infinite;
+    animation: background-move 3s linear infinite;
     background-size: 200%;
 }
 
