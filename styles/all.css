@@ -184,10 +184,6 @@ html, body {
     font-weight: 550;
 }
 
-.features-title br {
-    display: none;
-}
-
 .features-description {
     color: rgba(255, 255, 255, 0.5);
     font-weight: 400;
