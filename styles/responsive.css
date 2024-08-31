@@ -6,6 +6,11 @@
         justify-content: center;
     }
     
+    .section-logo {
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+    
     .section-description {
         font-size: 0.7em;
     }
@@ -50,14 +55,24 @@
     
     /**/
     
+    .features-image {
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+    
     .img-features {
-        width: 260px;
+        width: 200px;
     }
     
     /**/
     
+    .new-image {
+        margin-left: 8%;
+        margin-right: 8%;
+    }
+    
     .img-new {
-        width: 260px;
+        width: 200px;
     }
     
     
