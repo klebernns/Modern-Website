@@ -40,9 +40,6 @@ html, body {
 .header-menu {
     display: flex;
     gap: 1.4rem;
-    background-color: rgba(255, 255, 255, 0.04);
-    padding: 10px 20px;
-    border-radius: 20px;
 }
 
 .header-a {
@@ -52,9 +49,11 @@ html, body {
 }
 
 .header-a:hover {
-    background: linear-gradient(45deg, DeepSkyBlue, cyan, white);
+    background: linear-gradient(80deg, DeepSkyBlue, skyblue, cyan);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    animation: background-move 3s linear infinite;
+    background-size: 200%;
 }
 
 .menu-icon, .icon-menu {
@@ -83,9 +82,11 @@ html, body {
 }
 
 .title-color {
-    background: linear-gradient(45deg, DeepSkyBlue, cyan, white);
+    background: linear-gradient(80deg, DeepSkyBlue, skyblue, cyan);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    animation: background-move 3.5s linear infinite;
+    background-size: 200%;
 }
 
 .section-description {
