@@ -12,7 +12,7 @@ html, body {
 .main {
     width: 100%;
     min-height: 100%;
-    background: radial-gradient(#1c1c1c, black);
+    background: linear-gradient(65deg, #1c1c1c, black);
 }
 
 .center {
