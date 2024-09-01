@@ -23,7 +23,8 @@
     }
 
     .img-section {
-        width: 170px;
+        width: 180px;
+        height: auto;
         align-items: center;
         justify-content: center;
     }
@@ -54,6 +55,7 @@
 
     .img-features {
         width: 170px;
+        height: auto;
         align-items: center;
         justify-content: center;
     }
@@ -62,6 +64,7 @@
 
     .img-new {
         width: 170px;
+        height: auto;
         align-items: center;
         justify-content: center;
     }
@@ -122,7 +125,7 @@
     /**/
     
     .img-features {
-        width: 190px;
+        width: 180px;
         align-items: center;
         justify-content: center;
     }
@@ -130,7 +133,7 @@
     /**/
     
     .img-new {
-        width: 190px;
+        width: 180px;
         align-items: center;
         justify-content: center;
     }
