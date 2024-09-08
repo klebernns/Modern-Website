@@ -1,0 +1,17 @@
+ScrollReveal().reveal('.logotipo', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1000, delay: 200, easing: 'ease-in-out'});
+ScrollReveal().reveal('.header-a', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1000, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.section-title', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1200, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.section-description', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1400, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.patrocinios', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1600, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.img-section', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1600, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.wrapper-title', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1800, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.wrapper-description', { distance: '40px', origin: 'bottom', opacity: 0, duration: 1800, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.img-features', { distance: '30px', origin: 'bottom', opacity: 0, duration: 2000, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.features-title', { distance: '30px', origin: 'bottom', opacity: 0, duration: 2000, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.features-description', { distance: '30px', origin: 'bottom', opacity: 0, duration: 2100, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.features-btn', { distance: '30px', origin: 'bottom', opacity: 0, duration: 2200, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.new-title', { distance: '30px', origin: 'bottom', opacity: 0, duration: 2300, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.new-description', { distance: '30px', origin: 'bottom', opacity: 0, duration: 2400, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.img-new', { distance: '30px', origin: 'bottom', opacity: 0, duration: 2500, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.new-plataformas', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1800, delay: 200, easing: 'ease-in-out' });
+ScrollReveal().reveal('.icon-menu', { distance: '30px', origin: 'bottom', opacity: 0, duration: 1800, delay: 200, easing: 'ease-in-out' });
